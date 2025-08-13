@@ -1,0 +1,15 @@
+{
+    "age": 16,
+    "key": "value",
+    "list": [
+        "lamp",
+        "tv",
+        "sofa"
+    ],
+    "nested": {
+        "accesories": null,
+        "cpu": "IntelCore I9",
+        "monitor_available": false,
+        "ram": "8ус"
+    }
+}

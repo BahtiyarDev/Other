@@ -1,0 +1,19 @@
+Средння зарплата по отделам:
+Engineering: 94200.0
+Marketing: 74111.111
+Sales: 80111.111
+HR: 73750.0
+IT: 90750.0
+Finance: 81500.0
+Operations: 73875.0
+-------------------------------------------------------
+Отдел с наибольшим числом завершенных заказов: Engineering
+-------------------------------------------------------
+Сотрудники с зарплатой выше средней по отделу:
+Engineering: ['Alice', 'Ivy', 'Peter', 'Emily', 'Liam', 'Steve', 'Gage']
+Marketing: ['Bob', 'Felix', 'Tara']
+Finance: ['Grace', 'Cindy', 'Xena']
+Operations: ['Henry', 'Wendy', 'Faye']
+Sales: ['Rachel', 'Zack', 'Nick', 'Bella']
+IT: ['Tina', 'Isla', 'Paul', 'Will']
+HR: ['Hank', 'Opal', 'Vera', 'Cole']

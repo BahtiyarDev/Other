@@ -1,0 +1,10 @@
+[
+    {"name": "Ali", "items": ["book", "pen"]},
+    {"name": "Ali", "items": ["notebook"]},
+    {"name": "Zara", "items": ["book"]},
+    {"name": "Ali", "items": ["laptop"]},
+    {"name": "Zara", "items": ["lamp"]},
+    {"name": "Timur", "items": ["pen", "notebook", "ruler"]}
+    
+    
+]

@@ -1,0 +1,61 @@
+id,name,department,position,salary,join_date,projects_completed
+1,Alice,Engineering,Senior Developer,95000,2020-05-12,14
+2,Bob,Marketing,Lead Designer,82000,2019-11-03,9
+3,Charlie,Sales,Sales Manager,78000,2021-02-28,17
+4,David,Engineering,Junior Developer,65000,2022-06-15,5
+5,Eve,HR,HR Specialist,72000,2020-09-21,11
+6,Frank,IT,System Administrator,68000,2021-07-30,8
+7,Grace,Finance,Financial Analyst,89000,2019-05-14,12
+8,Henry,Operations,Operations Manager,92000,2020-03-22,15
+9,Ivy,Engineering,DevOps Engineer,105000,2021-11-05,18
+10,Jack,Marketing,Content Specialist,58000,2022-01-10,6
+11,Karen,Sales,Sales Representative,72000,2021-08-17,13
+12,Leo,HR,Recruiter,67000,2022-04-01,7
+13,Mia,IT,Frontend Developer,88000,2020-12-15,10
+14,Nathan,Finance,Accountant,75000,2021-02-28,9
+15,Olivia,Operations,Logistics Coordinator,63000,2022-03-12,5
+16,Peter,Engineering,Backend Developer,98000,2019-09-05,16
+17,Quinn,Marketing,SEO Specialist,71000,2021-06-20,11
+18,Rachel,Sales,Account Executive,85000,2020-07-08,14
+19,Sam,HR,Training Coordinator,69000,2022-02-14,8
+20,Tina,IT,Data Scientist,112000,2021-04-25,19
+21,Victor,Finance,Auditor,77000,2020-10-31,10
+22,Wendy,Operations,Facilities Manager,81000,2019-12-03,12
+23,Xander,Engineering,QA Engineer,73000,2022-05-18,7
+24,Yara,Marketing,Social Media Manager,64000,2021-09-22,9
+25,Zack,Sales,Sales Director,95000,2020-01-15,17
+26,Amy,HR,Benefits Administrator,71000,2022-07-05,6
+27,Brian,IT,Network Engineer,83000,2021-03-10,11
+28,Cindy,Finance,Treasury Analyst,91000,2020-08-12,13
+29,Derek,Operations,Supply Chain Specialist,67000,2022-01-25,8
+30,Emily,Engineering,Product Manager,102000,2019-07-17,15
+31,Felix,Marketing,Brand Manager,87000,2021-05-30,14
+32,Gina,Sales,Customer Success Manager,79000,2020-11-07,12
+33,Hank,HR,Compensation Analyst,75000,2022-03-08,9
+34,Isla,IT,Database Administrator,94000,2021-01-12,16
+35,Jake,Finance,Financial Planner,80000,2020-04-19,11
+36,Kate,Operations,Project Coordinator,62000,2022-06-22,7
+37,Liam,Engineering,Technical Lead,110000,2019-10-28,18
+38,Mona,Marketing,PR Specialist,69000,2021-07-15,10
+39,Nick,Sales,Sales Engineer,88000,2020-02-14,13
+40,Opal,HR,HR Business Partner,82000,2022-04-30,12
+41,Paul,IT,Cloud Architect,115000,2021-12-05,20
+42,Quincy,Finance,Tax Specialist,76000,2020-09-18,10
+43,Rose,Operations,Inventory Manager,71000,2022-02-28,9
+44,Steve,Engineering,Embedded Systems Developer,97000,2019-08-11,14
+45,Tara,Marketing,Digital Marketing Manager,92000,2021-10-25,15
+46,Uriah,Sales,Sales Operations Analyst,74000,2020-06-30,11
+47,Vera,HR,Employee Relations Specialist,78000,2022-05-15,10
+48,Will,IT,Security Engineer,101000,2021-11-20,17
+49,Xena,Finance,Budget Analyst,85000,2020-03-05,12
+50,Yves,Operations,Quality Assurance Coordinator,68000,2022-01-10,8
+51,Zoe,Engineering,UX Designer,89000,2019-12-22,13
+52,Adam,Marketing,Market Research Analyst,73000,2021-08-10,9
+53,Bella,Sales,Sales Trainer,82000,2020-05-17,12
+54,Cole,HR,HRIS Analyst,76000,2022-03-25,11
+55,Dana,IT,IT Support Specialist,65000,2021-02-14,7
+56,Eli,Finance,Cost Accountant,79000,2020-10-05,10
+57,Faye,Operations,Process Improvement Specialist,87000,2022-06-18,13
+58,Gage,Engineering,ML Engineer,108000,2019-11-30,16
+59,Hazel,Marketing,Email Marketing Specialist,71000,2021-09-12,8
+60,Ian,Sales,Inside Sales Representative,68000,2020-07-22,10
