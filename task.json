@@ -20,4 +20,26 @@
             "science": 85
         }
     }
+[
+    {
+        "name": "Timur",
+        "grades": {
+            "math": 60,
+            "science": 90
+        }
+    },
+    {
+        "name": "Ali",
+        "grades": {
+            "math": 80,
+            "science": 70
+        }
+    },
+    {
+        "name": "Zara",
+        "grades": {
+            "math": 95,
+            "science": 85
+        }
+    }
 ]
